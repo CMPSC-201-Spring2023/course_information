@@ -24,7 +24,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      |Introduction. Art of language design.   |Community Guidelines. Moral Machine.|
+|1      |Jan. 16-20      |Introduction. Art of language design.   | |
 |2      |Jan. 23-27|Compilation vs. interpretation.  Compilation Steps.   | |
 |3      |Jan.  30-Feb. 3  |Syntax: grammars, scanning.      |   |
 |4      |Feb. 6-10      |Parsing.   |   |
@@ -32,8 +32,8 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |6      |Feb. 20-24 | Control flow.  | |
 |7      |Feb. 27-March 3        |Midterm Exam on March 1. |  |
 |8      |March 6-10       | SPRING BREAK    | |
-|9      |March 13-17      |Functions.   | Activities 12-13.     Lab 2 DUE.   |
-|10     |March 20-24      |OOP.    |  Challenge Problem 6. Lab 3 Released.    |
+|9      |March 13-17      |Functions.   |   |
+|10     |March 20-24      |OOP.    |      |
 |11     |March 27-31   |  Classes.  |    |
 |12 |April 3-7  |Functional Programming. | |
 |13     |April 10-14      |Logic Programming.     |  |
