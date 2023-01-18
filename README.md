@@ -24,7 +24,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)   | [Community Guidelines](https://forms.gle/kBDmvyt9q151QfSs8). |
+|1      |Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)   | [Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6). |
 |2      |Jan. 23-27|Compilation vs. interpretation.  Compilation Steps.   | |
 |3      |Jan.  30-Feb. 3  |Syntax: grammars, scanning.      |   |
 |4      |Feb. 6-10      |Parsing.   |   |
