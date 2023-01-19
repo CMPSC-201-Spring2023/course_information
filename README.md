@@ -19,12 +19,12 @@ This repository contains information about the Programming Languages course, inc
 
 ### Schedule
 
-Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+Below is a tenative schedule of covered topics and associated activities. The textbook [Crafting Interpreters](https://craftinginterpreters.com) is indicated using "CrIn" abbreviation. The schedule is subject to change with the addition of guest appearances.
 
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)   | [Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6). |
+|1      |Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)   | [Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6). Read [Chapter 1 in CrIn](https://craftinginterpreters.com/introduction.html)| 
 |2      |Jan. 23-27|Compilation vs. interpretation.  Compilation Steps.   | |
 |3      |Jan.  30-Feb. 3  |Syntax: grammars, scanning.      |   |
 |4      |Feb. 6-10      |Parsing.   |   |
