@@ -16,31 +16,33 @@ This repository contains information about the Programming Languages course, inc
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
-
-### Schedule
+## Schedule
 
 Below is a tenative schedule of covered topics and associated activities. The textbook [Crafting Interpreters](https://craftinginterpreters.com) is indicated using "CrIn" abbreviation. The schedule is subject to change with the addition of guest appearances.
 
-
-|Week # |Dates           |Topic                                         |Activities/Assignments      |
-|-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)   | <ul><li>[Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6).</li> <li>Activity 1: Language Presentations.</li> <li>Read [Chapter 1 in CrIn](https://craftinginterpreters.com/introduction.html).</li></ul>| 
-|2      |Jan. 23-27|[Compilation vs. interpretation.  Compilation Steps.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.CompilationInterpretation.pdf) [Intro to Java.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.IntroJava.pdf)   | <ul><li>Activity 2: Lox vs. Java. </li> <li>Activity 3: Java Introduction.</li> <li> Read [Chapter 2 in CrIn](https://craftinginterpreters.com/a-map-of-the-territory.html) and [Chapter 3 in CrIn](https://craftinginterpreters.com/the-lox-language.html).</li> <li>Review [Lox vs. Java Table](https://docs.google.com/document/d/1ZlGvAWOW4_jj9SNOCFGeNuKBtED-mt3ikVHlFWM1xI0/edit?usp=sharing)</li></ul>|
-|3      |Jan.  30-Feb. 3  |Syntax: grammars, scanning.      |   |
-|4      |Feb. 6-10      |Parsing.   |   |
-|5      |Feb. 13-17      |Typing.  | |
-|6      |Feb. 20-24 | Control flow.  | |
-|7      |Feb. 27-March 3        |Midterm Exam on March 1. |  |
-|8      |March 6-10       | SPRING BREAK    | |
-|9      |March 13-17      |Functions.   |   |
-|10     |March 20-24      |OOP.    |      |
-|11     |March 27-31   |  Classes.  |    |
-|12 |April 3-7  |Functional Programming. | |
-|13     |April 10-14      |Logic Programming.     |  |
-|14     |April 17-21      |Code Improvement and Security.     |  Continue Project.      |
-|15     |April 24-28 |Project Work.        |  Continue Project.                          |
-|16     |May 1-5       |Summary.       |  Project DUE.  Final Exam on May 5th at 7pm    |
-
+Week # | Dates           | Topic                                                                                                                                                                                                                                                                           | Activities/Assignments
+------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1      | Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)                                                                                                                                              | - [Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6).
+- Activity 1: Language Presentations.
+- Read [Chapter 1 in CrIn](https://craftinginterpreters.com/introduction.html).
+2      | Jan. 23-27      | [Compilation vs. interpretation. Compilation Steps.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.CompilationInterpretation.pdf) [Intro to Java.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.IntroJava.pdf) | - Activity 2: Lox vs. Java.
+- Activity 3: Java Introduction.
+- Read [Chapter 2 in CrIn](https://craftinginterpreters.com/a-map-of-the-territory.html) and [Chapter 3 in CrIn](https://craftinginterpreters.com/the-lox-language.html).
+- Review [Lox vs. Java Table](https://docs.google.com/document/d/1ZlGvAWOW4_jj9SNOCFGeNuKBtED-mt3ikVHlFWM1xI0/edit?usp=sharing)
+3      | Jan. 30-Feb. 3  | Java.                                                                                                                                                                                                                                                                           | Activity 4: Java Programming.
+4      | Feb. 6-10       | Syntax: grammars, scanning.                                                                                                                                                                                                                                                     |
+5      | Feb. 13-17      | Parsing.                                                                                                                                                                                                                                                                        |
+6      | Feb. 20-24      | Typing.                                                                                                                                                                                                                                                                         |
+7      | Feb. 27-March 3 | Midterm Exam on March 1.                                                                                                                                                                                                                                                        |
+8      | March 6-10      | SPRING BREAK                                                                                                                                                                                                                                                                    |
+9      | March 13-17     | Control flow.                                                                                                                                                                                                                                                                   |
+10     | March 20-24     | Functions.                                                                                                                                                                                                                                                                      |
+11     | March 27-31     | OOP.                                                                                                                                                                                                                                                                            |
+12     | April 3-7       | Classes.                                                                                                                                                                                                                                                                        |
+13     | April 10-14     | Functional Programming.                                                                                                                                                                                                                                                         |
+14     | April 17-21     | Logic Programming.                                                                                                                                                                                                                                                              | Continue Project.
+15     | April 24-28     | Code Improvement and Security. Project Work.                                                                                                                                                                                                                                    | Continue Project.
+16     | May 1-5         | Summary.                                                                                                                                                                                                                                                                        | Project DUE. Final Exam on May 5th at 7pm
 
 ## Instructor
 
@@ -56,20 +58,20 @@ Email: jjumadinova@allegheny.edu
 
 ## Meetings
 
-Session | Day      | Time              | Location
-------- | -------- | ----------------- | ---------
-Class   | Monday, Wednesday, Friday  | 9:00am - 9:50am  | Alden 109
-Lab     | Wednesday | 2:30pm - 4:20pm   | Alden 109/ALIC
+Session | Day                       | Time            | Location
+------- | ------------------------- | --------------- | --------------
+Class   | Monday, Wednesday, Friday | 9:00am - 9:50am | Alden 109
+Lab     | Wednesday                 | 2:30pm - 4:20pm | Alden 109/ALIC
 
 ### Discord
 
-If you are already on the department's Discord server, you will be given access to the course's Discord channel, called `#programming-languages`. If not, then you will need to join the department's [Discord server](https://discord.gg/alleghenycs) before you can be added to the course's channel. 
+If you are already on the department's Discord server, you will be given access to the course's Discord channel, called `#programming-languages`. If not, then you will need to join the department's [Discord server](https://discord.gg/alleghenycs) before you can be added to the course's channel.
 
 ### Description
 
 Credits: 4
 
-A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software. Participating in hands-on activities that often require teamwork, students gain experience in leveraging the styles and features of programming languages to implement and evaluate correct and efficient computer software. During a weekly laboratory session, students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. 
+A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software. Participating in hands-on activities that often require teamwork, students gain experience in leveraging the styles and features of programming languages to implement and evaluate correct and efficient computer software. During a weekly laboratory session, students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 Prerequisite: CMPSC 101.
 
@@ -91,7 +93,7 @@ At the completion of this class, a student must be comfortable with the fundamen
 
 ### Materials
 
-[Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom is the main required textbook for this course. Other reading resources will be provided by the instructor. All reading assignments will be indicated by the instructor with links listed on the [course schedule](#Schedule). 
+[Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom is the main required textbook for this course. Other reading resources will be provided by the instructor. All reading assignments will be indicated by the instructor with links listed on the [course schedule](#Schedule).
 
 You are required to bring a laptop to every class. Additionally, you will be required to install software on your laptop and if your laptop is not capable of working with specific software then a departmental laptop will be provided to you.
 
@@ -99,23 +101,23 @@ You are required to bring a laptop to every class. Additionally, you will be req
 
 #### Grading
 
-|Category             |Percentage |Assessment metric|
-|---------------------|-----------|-----------------|
-|Class Activities     |30%        |check mark grade |
-|Exams|20%        |check mark grade |
-|Labs      |40%        |letter grade     |
-|Course project       |10%        |letter grade     |
-|                     |           |                 |
-|Total                |100%       |                 |
+Category         | Percentage | Assessment metric
+---------------- | ---------- | -----------------
+Class Activities | 30%        | check mark grade
+Exams            | 20%        | check mark grade
+Labs             | 40%        | letter grade
+Course project   | 10%        | letter grade
+                 |            |
+Total            | 100%
 
 #### Grading Scale
 
-|Grading scale|            |             |            |             |            |
-|:------------|:-----------|:------------|:-----------|:------------|:-----------|
-|A            | 96 - 100   |A-           | 90 - 95.9  |
-|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
-|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |D            | 63 - 66.9  |F           | 59.9 and below  |
+Grading scale |           |    |           |    |
+:------------ | :-------- | :- | :-------- | :- | :-------------
+A             | 96 - 100  | A- | 90 - 95.9
+B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
+C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
+D+            | 67 - 69.9 | D  | 63 - 66.9 | F  | 59.9 and below
 
 #### Class Activities
 
@@ -123,7 +125,7 @@ All students are required to actively participate during all of the class sessio
 
 #### Exams
 
-There will be two in-class exams in this course, each worth 10% of the total grade. 
+There will be two in-class exams in this course, each worth 10% of the total grade.
 
 The midterm exam is an hour-long cumulative test covering all of the material from the class and laboratory sessions up to the point of the exam. Unless prior arrangements are made with the course instructor, all students will be expected to take this test on the scheduled date and complete the test in the stated period of time.
 
@@ -139,8 +141,7 @@ This project will present you with an opportunity to design and implement a corr
 
 #### Assignment Submission
 
-All assignments have a stated due date and are to be turned in on that due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline without severe grade penalty.
-By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded. 
+All assignments have a stated due date and are to be turned in on that due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline without severe grade penalty. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded.
 
 #### Attendance
 
@@ -172,7 +173,7 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
-In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/community_guidelines.md). 
+In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/community_guidelines.md).
 
 ### Assistance
 
@@ -194,18 +195,16 @@ As a college student, there may be times when personal stressors, struggles, and
 
 Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
 
-Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC's website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny's 24/7 line: 814-332-2105. 
-If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
+Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC's website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny's 24/7 line: 814-332-2105\. If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911\. When in doubt, reach out.
 
 #### Gator Success Grants
 
 The Gator Success Grant program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student's need. Please direct questions to `studentsuccess@allegheny.edu`.
 
-#### Religious Observance 
+#### Religious Observance
 
 If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see `https://sites.allegheny.edu/religiouslife/religious-holy-days/` for more details.
 
 #### Educational Accommodations
 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
-
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898\. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
