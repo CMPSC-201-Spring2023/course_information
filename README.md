@@ -102,14 +102,14 @@ Class Activities | 30%        | check mark grade
 Exams            | 20%        | check mark grade
 Labs             | 40%        | letter grade
 Course project   | 10%        | letter grade
-                 |            |
-Total            | 100%
+---------------- | ---------- | -----------------
+Total            | 100%       | -----------------
 
 #### Grading Scale
 
-Grading scale |           |    |           |    |
+Grading scale |-------- |  --  | --------  | -- |  -------------
 ------------- | -------- | -- | -------- | -- | -------------
-A             | 96 - 100  | A- | 90 - 95.9 |    |
+A             | 96 - 100  | A- | 90 - 95.9 |--    | -------------
 B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
 C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
 D+            | 67 - 69.9 | D  | 63 - 66.9 | F  | 59.9 and below
