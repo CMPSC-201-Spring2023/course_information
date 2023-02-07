@@ -25,7 +25,7 @@ Week # | Dates           | Topic                                                
 1      | Jan. 16-20      | [Introduction. Art of language design.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/1.IntroPL.pdf)                                                                                                                                              | <ul><li>[Community Guidelines](https://forms.gle/Ht3aTucMHBR6HcBL6).</li> <li> Activity 1: Language Presentations.</li> <li>Read [Chapter 1 in CrIn](https://craftinginterpreters.com/introduction.html).</li></ul>
 2      | Jan. 23-27      | [Compilation vs. interpretation. Compilation Steps.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.CompilationInterpretation.pdf) [Intro to Java.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/2.IntroJava.pdf) | <ul><li>Activity 2: Lox vs. Java.</li> <li>Activity 3: Java Introduction.</li> <li>[LAB 1: Java 101](https://classroom.github.com/a/YhTiLnQQ)</li> <li> Read [Chapter 2 in CrIn](https://craftinginterpreters.com/a-map-of-the-territory.html) and [Chapter 3 in CrIn](https://craftinginterpreters.com/the-lox-language.html).</li> <li>Review [Lox vs. Java Table](https://docs.google.com/document/d/1ZlGvAWOW4_jj9SNOCFGeNuKBtED-mt3ikVHlFWM1xI0/edit?usp=sharing) </li></ul>
 3      | Jan. 30-Feb. 3  | Java.     | <ul><li> [Activity 4: Java Programming.](https://classroom.github.com/a/X_BbKbAk)</li> <li>[LAB 2: Java OOP](https://classroom.github.com/a/8qKdQvMF)</li><li>[Activity 5: More Java](https://classroom.github.com/a/MDeNeq_R)</ul>
-4      | Feb. 6-10  | [Syntax: grammars, scanning.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/4.Scanning_Parsing.pdf) | <ul><li>[Activity 6: Grammars](https://forms.gle/BHmjw9Y39R3PqrA59) </li> <li> Read [Chapter 4 in CrIn](https://craftinginterpreters.com/scanning.html) and [Chapter 5 in CrIn](https://craftinginterpreters.com/representing-code.html).</li></ul>
+4      | Feb. 6-10  | [Syntax: grammars, scanning.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/4.Scanning_Parsing.pdf) | <ul><li>[Activity 6: Grammars](https://forms.gle/BHmjw9Y39R3PqrA59) </li> <li> [LAB 3: Grammar](https://classroom.github.com/a/Vx3Uo6mX)<li> Read [Chapter 4 in CrIn](https://craftinginterpreters.com/scanning.html) and [Chapter 5 in CrIn](https://craftinginterpreters.com/representing-code.html).</li></ul>
 5      | Feb. 13-17      | Parsing.                                                                                                                                                                                                                                                                        |
 6      | Feb. 20-24      | Typing.                                                                                                                                                                                                                                                                         |
 7      | Feb. 27-March 3 | Midterm Exam on March 1.                                                                                                                                                                                                                                                        |
@@ -108,8 +108,8 @@ Total            | 100%
 #### Grading Scale
 
 Grading scale |           |    |           |    |
-:------------ | :-------- | :- | :-------- | :- | :-------------
-A             | 96 - 100  | A- | 90 - 95.9
+------------- | -------- | -- | -------- | -- | -------------
+A             | 96 - 100  | A- | 90 - 95.9 |    |
 B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
 C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
 D+            | 67 - 69.9 | D  | 63 - 66.9 | F  | 59.9 and below
@@ -128,7 +128,7 @@ The final examination is a two-hour cumulative test given to students at the end
 
 #### Lab Assignments
 
-These assignments invite students to explore different techniques for designing, implementing, evaluating, testing and documenting software solutions to chal- lenging problems. To best ensure that students are ready to develop software in both other classes at Allegheny and after graduation, students will complete assignments both on an individual basis and in teams. Team-based assignments will be evaluated based on both individual and team effort according to the guidelines established by the members of this course at the beginning of the semester. GatorGrader and Continuous Integration will be used to help students assess their work before submission of the assignment and for the evaluation of the lab assignment.
+These assignments invite students to explore different techniques for designing, implementing, evaluating, testing and documenting software solutions to challenging problems. To best ensure that students are ready to develop software in both other classes at Allegheny and after graduation, students will complete assignments both on an individual basis and in teams. Team-based assignments will be evaluated based on both individual and team effort according to the guidelines established by the members of this course at the beginning of the semester. GatorGrader and Continuous Integration will be used to help students assess their work before submission of the assignment and for the evaluation of the lab assignment.
 
 #### Course project
 
