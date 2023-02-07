@@ -102,8 +102,7 @@ Class Activities | 30%        | check mark grade
 Exams            | 20%        | check mark grade
 Labs             | 40%        | letter grade
 Course project   | 10%        | letter grade
----------------- | ---------- | -----------------
-Total            | 100%       | -----------------
+Total            | 100%       | 
 
 #### Grading Scale
 
