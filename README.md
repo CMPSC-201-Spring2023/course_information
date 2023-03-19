@@ -31,13 +31,13 @@ Week # | Dates           | Topic                                                
 7      | Feb. 27-March 3 | [Midterm Exam](https://classroom.github.com/a/lxcdxx0S) on March 1.        | <ul><li>[Midterm Review Sample Questions](https://classroom.github.com/a/jcfDKJ_9)</li> <li>[Activity 12: Lox Evaluation Expressions](https://github.com/CMPSC-201-Spring2023/activity12)</li><li>Read [Chapter 7 in CrIn](https://craftinginterpreters.com/evaluating-expressions.html)</li></ul>
 8      | March 6-10      | SPRING BREAK  |                
 9      | March 13-17     | [Scoping, Binding](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/9.BindingScoping.pdf). [Storage Management.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/9.StorageManagement.pdf)    | <ul><li>[Activity 13: Javascript scoping](https://classroom.github.com/a/IJ57HAob)</li> <li>[Activity 14: Static Chains and Scoping](https://forms.gle/YChxVYRUTxXQ29Po8)<li>Read [Chapter 8 in CrIn](https://craftinginterpreters.com/statements-and-state.html)</li></ul>
-10     | March 20-24     | [Control Flow](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/10.ControlFlow.pdf). Functions.   | <ul><li>[Activity 15: C goto](https://classroom.github.com/a/5L3824dV) </li> <li>Read [Chapter 9 in CrIn](https://craftinginterpreters.com/control-flow.html)</li></ul>
-11     | March 27-31*     | Typing.                                                                                                                                                                                                                                                                            |
-12     | April 3-7       | Classes.                                                                                                                                                                                                                                                                        |
-13     | April 10-14     | Language Paradigms.                                                                                                                                                                                                                                                         |
-14     | April 17-21     | Optimization.                                                                                                                                                                                                                                                              | Continue Project.
-15     | April 24-28     | Code Improvement and Security.                                                                                                                                                                                                                                     | Continue Project.
-16     | May 1-5         | Summary.                                                                                                                                                                                                                                                                        | Project DUE. Final Exam on May 5th at 7pm
+10     | March 20-24     | [Control Flow](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/10.ControlFlow.pdf). Functions.   | <ul><li>[Activity 15: C goto](https://classroom.github.com/a/5L3824dV) </li> <li>Read [Chapter 9 in CrIn](https://craftinginterpreters.com/control-flow.html)</li> <li>Read [Chapter 10 in CrIn](https://craftinginterpreters.com/functions.html)</ul>
+11     | March 27-31*     | Typing.     |
+12     | April 3-7       | Classes.     |
+13     | April 10-14     | Language Paradigms.   |
+14     | April 17-21     | Optimization.      | Continue Project.
+15     | April 24-28     | Code Improvement and Security.    | Continue Project.
+16     | May 1-5         | Summary.  | Project DUE. Final Exam on May 5th at 7pm
 
 ## Instructor
 
