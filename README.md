@@ -34,10 +34,10 @@ Week # | Dates           | Topic                                                
 10     | March 20-24     | [Control Flow](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/10.ControlFlow.pdf). [Functions](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/10.Subroutines.pdf). | <ul><li>[Activity 15: C goto](https://classroom.github.com/a/5L3824dV) </li> <li>[Activity 16: loop unrolling](https://classroom.github.com/a/iDri4D6A)</li> <li>[Activity 17: functions](https://classroom.github.com/a/wOxcKxGA)</li> <li>Read [Chapter 9 in CrIn](https://craftinginterpreters.com/control-flow.html)</li> <li>Read [Chapter 10 in CrIn](https://craftinginterpreters.com/functions.html)</li> <li> [LAB 6: Scoping and Storage Management](https://classroom.github.com/a/O-pm_90A) </li></ul>
 11     | March 27-31*     | Typing with Go.     | <ul><li>LAB 7 Released on March 27th</li> <li>No meetings for class sessions on March 27th and March 29th</li> <li>[LAB 7: Complete Lox Interpreter](https://github.com/CMPSC-201-Spring2023/lab07-complete_lox_interpreter).</li> <li>Class session with Colton Mccurdy on March 31st</li></ul>
 12     | April 3-7       | [Types](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/11.Types.pdf). [OOP](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/11.OOP.pdf).     | <ul><li>[Activity 18: Go Reflection](https://forms.gle/UrNp4FdUGW75S7Uk8).</li> <li>[Activity 19: Types](https://classroom.github.com/a/QeC3Z7Ov)</li> <li>[Activity 21: OOP](https://classroom.github.com/a/7euXsD-5)</li></ul>
-13     | April 10-14     | [Language Paradigms. Functional Languages.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/13.FunctionalLanguages.pdf)   | <ul><li>[Activity 22: Lambda Functions](https://classroom.github.com/a/vsMPpCD8)</li> <li>[Project](https://classroom.github.com/a/MvgsrTWB)</ul>
-14     | April 17-21     | Optimization.      | Continue Project.
-15     | April 24-28     | Code Improvement and Security.    | Continue Project.
-16     | May 1-5         | Summary.  | Project DUE. Final Exam on May 5th at 7pm
+13     | April 10-14     | [Language Paradigms. Functional Languages.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/13.FunctionalLanguages.pdf) | <ul><li>[Activity 22: Lambda Functions](https://classroom.github.com/a/vsMPpCD8)</li> <li>[Project](https://classroom.github.com/a/MvgsrTWB)</ul>
+14     | April 17-21     | [Security](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/14.Security.pdf).  | <ul><li>[Activity 23](https://forms.gle/W8URah1FBh9h1a4n7). </li> <li>Continue Project.</li></ul>
+15     | April 24-28     | Summary.    | Continue Project.
+16     | May 1-5         | Exam Review.  | Project DUE. Final Exam on May 5th at 7pm
 
 ## Instructor
 
