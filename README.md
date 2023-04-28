@@ -36,7 +36,7 @@ Week # | Dates           | Topic                                                
 12     | April 3-7       | [Types](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/11.Types.pdf). [OOP](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/11.OOP.pdf).     | <ul><li>[Activity 18: Go Reflection](https://forms.gle/UrNp4FdUGW75S7Uk8).</li> <li>[Activity 19: Types](https://classroom.github.com/a/QeC3Z7Ov)</li> <li>[Activity 21: OOP](https://classroom.github.com/a/7euXsD-5)</li></ul>
 13     | April 10-14     | [Language Paradigms. Functional Languages.](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/13.FunctionalLanguages.pdf) | <ul><li>[Activity 22: Lambda Functions](https://classroom.github.com/a/vsMPpCD8)</li> <li>[Project](https://classroom.github.com/a/MvgsrTWB)</ul>
 14     | April 17-21     | [Security](https://github.com/CMPSC-201-Spring2023/course_information/blob/main/slides/14.Security.pdf).  | <ul><li>[Activity 23: Security](https://forms.gle/W8URah1FBh9h1a4n7). </li> <li>[Activity 24: Reflection](https://forms.gle/vXmd636Lv5DDYtVg9)</li> <li>Continue Project.</li></ul>
-15     | April 24-28     | Summary.    | Continue Project.
+15     | April 24-28     | Summary. Exam Review.   | <ul><li>Continue Project.</li> <li>[Exam Study Questions](https://classroom.github.com/a/SeUKxn6g)</li></ul>
 16     | May 1-5         | Exam Review.  | Project DUE. Final Exam on May 5th at 7pm
 
 ## Instructor
